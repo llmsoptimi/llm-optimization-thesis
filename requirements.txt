@@ -1,0 +1,19 @@
+# Core API clients and utilities
+openai
+anthropic
+requests
+pyyaml
+
+# Data handling and analysis
+pandas
+numpy
+
+# System monitoring
+psutil
+
+# Scalability testing
+locust
+flask
+
+# Visualization
+plotly
