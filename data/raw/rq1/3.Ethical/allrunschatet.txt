@@ -1,0 +1,302 @@
+[
+  {
+    "query_id": "E-BROAD1",
+    "complexity": "Low",
+    "run": 1,
+    "latency_median_ms": 615.8,
+    "accuracy_score": 8,
+    "cpu_percent": 3.5,
+    "ram_mb": 1451.2,
+    "bandwidth_mbps": 64.1
+  },
+  {
+    "query_id": "E-BROAD1",
+    "complexity": "Low",
+    "run": 2,
+    "latency_median_ms": 599.2,
+    "accuracy_score": 7,
+    "cpu_percent": 3.4,
+    "ram_mb": 1425.5,
+    "bandwidth_mbps": 68.3
+  },
+  {
+    "query_id": "E-BROAD1",
+    "complexity": "Low",
+    "run": 3,
+    "latency_median_ms": 628.4,
+    "accuracy_score": 9,
+    "cpu_percent": 3.6,
+    "ram_mb": 1480.8,
+    "bandwidth_mbps": 65.5
+  },
+  {
+    "query_id": "E-BROAD2",
+    "complexity": "Low",
+    "run": 1,
+    "latency_median_ms": 752.3,
+    "accuracy_score": 8,
+    "cpu_percent": 4.1,
+    "ram_mb": 2250.1,
+    "bandwidth_mbps": 67.3
+  },
+  {
+    "query_id": "E-BROAD2",
+    "complexity": "Low",
+    "run": 2,
+    "latency_median_ms": 789.9,
+    "accuracy_score": 7,
+    "cpu_percent": 4.3,
+    "ram_mb": 2395.7,
+    "bandwidth_mbps": 69.8
+  },
+  {
+    "query_id": "E-BROAD2",
+    "complexity": "Low",
+    "run": 3,
+    "latency_median_ms": 765.6,
+    "accuracy_score": 9,
+    "cpu_percent": 4.2,
+    "ram_mb": 2280.4,
+    "bandwidth_mbps": 68.1
+  },
+  {
+    "query_id": "E-BROAD3",
+    "complexity": "Low",
+    "run": 1,
+    "latency_median_ms": 955.7,
+    "accuracy_score": 9,
+    "cpu_percent": 4.4,
+    "ram_mb": 2305.9,
+    "bandwidth_mbps": 70.2
+  },
+  {
+    "query_id": "E-BROAD3",
+    "complexity": "Low",
+    "run": 2,
+    "latency_median_ms": 931.8,
+    "accuracy_score": 8,
+    "cpu_percent": 4.2,
+    "ram_mb": 2250.1,
+    "bandwidth_mbps": 73.2
+  },
+  {
+    "query_id": "E-BROAD3",
+    "complexity": "Low",
+    "run": 3,
+    "latency_median_ms": 989.2,
+    "accuracy_score": 7,
+    "cpu_percent": 4.5,
+    "ram_mb": 2355.6,
+    "bandwidth_mbps": 71.8
+  },
+  {
+    "query_id": "E-BROAD4",
+    "complexity": "Medium",
+    "run": 1,
+    "latency_median_ms": 1750.8,
+    "accuracy_score": 5,
+    "cpu_percent": 5.0,
+    "ram_mb": 2805.4,
+    "bandwidth_mbps": 85.1
+  },
+  {
+    "query_id": "E-BROAD4",
+    "complexity": "Medium",
+    "run": 2,
+    "latency_median_ms": 1825.1,
+    "accuracy_score": 6,
+    "cpu_percent": 5.2,
+    "ram_mb": 2975.8,
+    "bandwidth_mbps": 88.8
+  },
+  {
+    "query_id": "E-BROAD4",
+    "complexity": "Medium",
+    "run": 3,
+    "latency_median_ms": 1789.3,
+    "accuracy_score": 7,
+    "cpu_percent": 5.1,
+    "ram_mb": 2890.2,
+    "bandwidth_mbps": 86.4
+  },
+  {
+    "query_id": "E-BROAD5",
+    "complexity": "Medium",
+    "run": 1,
+    "latency_median_ms": 1852.4,
+    "accuracy_score": 6,
+    "cpu_percent": 5.3,
+    "ram_mb": 2981.8,
+    "bandwidth_mbps": 87.2
+  },
+  {
+    "query_id": "E-BROAD5",
+    "complexity": "Medium",
+    "run": 2,
+    "latency_median_ms": 1799.9,
+    "accuracy_score": 5,
+    "cpu_percent": 5.1,
+    "ram_mb": 2901.5,
+    "bandwidth_mbps": 90.1
+  },
+  {
+    "query_id": "E-BROAD5",
+    "complexity": "Medium",
+    "run": 3,
+    "latency_median_ms": 1888.7,
+    "accuracy_score": 6,
+    "cpu_percent": 5.4,
+    "ram_mb": 3015.9,
+    "bandwidth_mbps": 88.9
+  },
+  {
+    "query_id": "E-BROAD6",
+    "complexity": "Medium",
+    "run": 1,
+    "latency_median_ms": 2199.9,
+    "accuracy_score": 5,
+    "cpu_percent": 5.6,
+    "ram_mb": 3142.3,
+    "bandwidth_mbps": 92.1
+  },
+  {
+    "query_id": "E-BROAD6",
+    "run": 2,
+    "latency_median_ms": 2255.6,
+    "accuracy_score": 6,
+    "cpu_percent": 5.8,
+    "ram_mb": 3215.7,
+    "bandwidth_mbps": 95.8
+  },
+  {
+    "query_id": "E-BROAD6",
+    "complexity": "Medium",
+    "run": 3,
+    "latency_median_ms": 2150.8,
+    "accuracy_score": 5,
+    "cpu_percent": 5.5,
+    "ram_mb": 3095.2,
+    "bandwidth_mbps": 93.1
+  },
+  {
+    "query_id": "E-BROAD7",
+    "complexity": "High",
+    "run": 1,
+    "latency_median_ms": 3352.5,
+    "accuracy_score": 7,
+    "cpu_percent": 8.5,
+    "ram_mb": 3759.6,
+    "bandwidth_mbps": 122.9
+  },
+  {
+    "query_id": "E-BROAD7",
+    "complexity": "High",
+    "run": 2,
+    "latency_median_ms": 3405.8,
+    "accuracy_score": 6,
+    "cpu_percent": 8.7,
+    "ram_mb": 3830.2,
+    "bandwidth_mbps": 125.5
+  },
+  {
+    "query_id": "E-BROAD7",
+    "complexity": "High",
+    "run": 3,
+    "latency_median_ms": 3315.1,
+    "accuracy_score": 7,
+    "cpu_percent": 8.4,
+    "ram_mb": 3705.9,
+    "bandwidth_mbps": 121.1
+  },
+  {
+    "query_id": "E-BROAD8",
+    "complexity": "High",
+    "run": 1,
+    "latency_median_ms": 3555.8,
+    "accuracy_score": 5,
+    "cpu_percent": 8.9,
+    "ram_mb": 4048.1,
+    "bandwidth_mbps": 128.4
+  },
+  {
+    "query_id": "E-BROAD8",
+    "complexity": "High",
+    "run": 2,
+    "latency_median_ms": 3618.4,
+    "accuracy_score": 6,
+    "cpu_percent": 9.1,
+    "ram_mb": 4100.7,
+    "bandwidth_mbps": 130.2
+  },
+  {
+    "query_id": "E-BROAD8",
+    "complexity": "High",
+    "run": 3,
+    "latency_median_ms": 3501.2,
+    "accuracy_score": 7,
+    "cpu_percent": 8.8,
+    "ram_mb": 3995.3,
+    "bandwidth_mbps": 126.9
+  },
+  {
+    "query_id": "E-BROAD9",
+    "complexity": "High",
+    "run": 1,
+    "latency_median_ms": 3999.3,
+    "accuracy_score": 6,
+    "cpu_percent": 9.3,
+    "ram_mb": 4105.6,
+    "bandwidth_mbps": 133.6
+  },
+  {
+    "query_id": "E-BROAD9",
+    "complexity": "High",
+    "run": 2,
+    "latency_median_ms": 3850.9,
+    "accuracy_score": 9,
+    "cpu_percent": 9.1,
+    "ram_mb": 4059.8,
+    "bandwidth_mbps": 138.9
+  },
+  {
+    "query_id": "E-BROAD9",
+    "complexity": "High",
+    "run": 3,
+    "latency_median_ms": 4085.1,
+    "accuracy_score": 8,
+    "cpu_percent": 9.5,
+    "ram_mb": 4180.4,
+    "bandwidth_mbps": 135.8
+  },
+  {
+    "query_id": "E-BROAD10",
+    "complexity": "High",
+    "run": 1,
+    "latency_median_ms": 4181.6,
+    "accuracy_score": 6,
+    "cpu_percent": 9.8,
+    "ram_mb": 4333.2,
+    "bandwidth_mbps": 140.2
+  },
+  {
+    "query_id": "E-BROAD10",
+    "complexity": "High",
+    "run": 2,
+    "latency_median_ms": 4232.4,
+    "accuracy_score": 8,
+    "cpu_percent": 10.0,
+    "ram_mb": 4388.9,
+    "bandwidth_mbps": 143.1
+  },
+  {
+    "query_id": "E-BROAD10",
+    "complexity": "High",
+    "run": 3,
+    "latency_median_ms": 4109.8,
+    "accuracy_score": 7,
+    "cpu_percent": 9.6,
+    "ram_mb": 4291.5,
+    "bandwidth_mbps": 139.8
+  }
+]
+
